@@ -31,3 +31,4 @@ sudo chkconfig nexus on
 sudo systemctl start nexus
 sudo systemctl enable nexus
 sudo systemctl status nexus
+sudo wget https://download.sonatype.com/nexus/3/nexus-3.79.1-04-linux-x86_64.tar.gz
